@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="fr-CH" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 245230751 - Method 1898112875 - NamedType 3468381148" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Postage packing</source>
+          <target>Affranchissement et emballage</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MySubscribers - Method OnBeforeReleaseSalesDoc - NamedType PortoLabel</note>
+        </trans-unit>
+        <trans-unit id="Table 1991864322 - Field 1856816140 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Country</source>
+          <target>Land</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Porto - Field Country - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1991864322 - Field 3561154705 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency</source>
+          <target>Währung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Porto - Field Currency - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

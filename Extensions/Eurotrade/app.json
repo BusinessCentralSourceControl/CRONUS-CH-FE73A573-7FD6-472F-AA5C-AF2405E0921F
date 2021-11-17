@@ -1,0 +1,60 @@
+{
+  "id": "034f459c-6933-41ef-ab7c-2fc96c70f4ff",
+  "name": "Eurotrade",
+  "publisher": "Amann Informatik",
+  "version": "1.0.0.21",
+  "help": "https://www.amanninformatik.ch",
+  "runtime": "7.0",
+  "showMyCode": true,
+  "target": "Cloud",
+  "platform": "18.0.29486.0",
+  "contextSensitiveHelpUrl": "https://amanninformatik.ch",
+  "features": [
+    "TRANSLATIONFILE",
+    "GENERATECAPTIONS"
+  ],
+  "dependencies": [
+    {
+      "id": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+      "name": "System Application",
+      "version": "18.0.0.0",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "name": "Base Application",
+      "version": "18.0.0.0",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "98860128-1333-4598-a3da-0590804648b7",
+      "name": "QR-Bill Management for Switzerland",
+      "version": "18.2.26217.26490",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "6f0293d3-86fc-4ff8-9632-54a580be6546",
+      "name": "ForNAV Core",
+      "version": "6.0.0.0",
+      "publisher": "ForNAV"
+    },
+    {
+      "id": "04e6d698-125a-4fff-8edb-4957fdbc71b9",
+      "name": "LogiWebshop",
+      "version": "18.0.26.0",
+      "publisher": "Logico Solutions AG"
+    },
+    {
+      "id": "c1335042-3002-4257-bf8a-75c898ccb1b8",
+      "name": "Application",
+      "version": "18.0.0.0",
+      "publisher": "Microsoft"
+    }
+  ],
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50149
+    }
+  ]
+}
