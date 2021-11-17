@@ -11,14 +11,14 @@ pageextension 50002 ContactCard extends "Contact card"
                 ApplicationArea = all;
             }
         }
-        addafter("Name")
-        {
-            field("Name 2";rec."Name 2")
-            {
-                Visible = true;
-                ApplicationArea = all;
-            }
-        }
+        // addafter("Name")
+        // {
+        //     field("Name 2"; rec."Name 2")
+        //     {
+        //         Visible = true;
+        //         ApplicationArea = all;
+        //     }
+        //}
         addafter("Search Name")
         {
             field("Birthday";rec.Birthday)
