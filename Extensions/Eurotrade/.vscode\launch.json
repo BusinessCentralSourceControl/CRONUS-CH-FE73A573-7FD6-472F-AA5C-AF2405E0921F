@@ -1,13 +1,6 @@
 {
-  "version": "0.2.0",
-  "configurations": [
-    {
-      "type": "al",
-      "request": "launch",
-      "name": "Publish",
-      "server": "https://businesscentral.dynamics.com:7049",
-      "serverInstance": "MS",
-      "authentication": "UserPassword"
-    }
-  ]
+    "version": "0.2.0",
+    "configurations": [
+        // Use Ctrl+Space to trigger IntelliSense and get assistance on the supported configurations for AL development.
+    ]
 }
